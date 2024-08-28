@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Caio Castro\Desktop\EBAC - Curso TI do zero ao pro\Profissão Desenvolvedor Full Stack Java\JAVA\modulo7\Tarefa_Classes\.metadata\.plugins\org.eclipse.jdt.core
+3119958487.index
+1398060256.index
+1865797976.index

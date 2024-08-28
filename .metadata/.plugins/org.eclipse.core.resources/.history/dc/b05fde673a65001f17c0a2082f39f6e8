@@ -1,0 +1,10 @@
+package caio.castro;
+
+public class radioRelogio {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
